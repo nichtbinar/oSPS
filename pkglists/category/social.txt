@@ -1,0 +1,4 @@
+discord
+element-desktop
+kopete
+quassel-client

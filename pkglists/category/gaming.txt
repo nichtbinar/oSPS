@@ -1,0 +1,15 @@
+gamemode
+gamemoded
+libgamemode0
+libgamemode0-32bit
+libgamemodeauto0
+libgamemodeauto0-32bit
+libgaminggear
+libgaminggear0
+libgaminggearfx0
+lutris
+prismlauncher-qt5
+steam
+tremulous
+urbanterror
+warzone2100

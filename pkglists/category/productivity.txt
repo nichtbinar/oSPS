@@ -1,0 +1,17 @@
+libreoffice
+libreoffice-base
+libreoffice-branding-openSUSE
+libreoffice-calc
+libreoffice-draw
+libreoffice-filters-optional
+libreoffice-icon-themes
+libreoffice-impress
+libreoffice-l10n-en
+libreoffice-l10n-en_GB
+libreoffice-mailmerge
+libreoffice-math
+libreoffice-pyuno
+libreoffice-qt5
+libreoffice-share-linker
+libreoffice-writer
+opera

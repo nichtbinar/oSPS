@@ -1,0 +1,10 @@
+bluez
+bluez-auto-enable-devices
+bluez-cups
+bluez-firnware
+bluez-qt-imports
+bluez-qt-udev
+bluez-zsh-completion
+libKF5BluezQt6
+libQt5Bluetooth5
+libQt5Bluetooth5-imports

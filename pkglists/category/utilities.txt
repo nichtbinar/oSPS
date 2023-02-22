@@ -1,0 +1,13 @@
+7zip
+bitwarden
+clusterssh
+ksshaskpass5
+neofetch
+plasma-nm5-ssh
+pssh
+ssh-tools
+sshfs
+sshguard
+sshpass
+sshuttle
+yakuake

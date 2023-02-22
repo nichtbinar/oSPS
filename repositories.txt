@@ -1,0 +1,8 @@
+90 https://ftp.fau.de/packman/suse/openSUSE_Tumbleweed/ "Packman"
+90 https://download.nvidia.com/opensuse/tumbleweed "NVIDIA"
+90 https://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_Tumbleweed/ "Emulators"
+90 https://download.opensuse.org/repositories/games/Wine/openSUSE_Tumbleweed/ "Games"
+90 https://download.opensuse.org/repositories/home:/M0ses:/matrix/openSUSE_Tumbleweed/ "M0ses: Matrix"
+90 https://download.opensuse.org/repositories/home:/ahjolinna/openSUSE_Tumbleweed/ "Ahjolinna"
+90 https://download.opensuse.org/repositories/home:/g3tchoo/openSUSE_Tumbleweed/ "G3tchoo"
+99 https://codecs.opensuse.org/openh264/openSUSE_Tumbleweed "Open H.264 Codec"
